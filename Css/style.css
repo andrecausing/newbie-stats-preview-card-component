@@ -1,0 +1,31 @@
+.container{
+    margin: 20% 5%;
+}
+
+.image{
+    background-color: hsl(244, 38%, 16%);
+}
+
+
+.content{
+    text-align: center;
+    padding: 5%;
+    background-color: hsl(244, 38%, 16%);
+    
+}
+
+.heading{
+    margin-top: 20px;
+}
+
+.paragraph{
+    margin: 10px 0px 20px;
+}
+
+.text_violet{
+    color: hsl(277, 64%, 61%);
+}
+
+.description{
+   line-height: 2.1;
+}
